@@ -4,7 +4,7 @@ Prerequisites:
 --------------
 * PHP 5.2 and above with curl/openssl extensions enabled
    
-Running TestCase
+Runninvg TestCase
 ----------------
 * You need PHPUnit and Ant installed in your system.
 * Run `composer update` inside `samples` folder.
